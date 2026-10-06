@@ -1,4 +1,5 @@
 # HTML-PRACTICE
 First Git Repo
 <br>
-Author - Pooja 
+Author - Pooja Hangal
+Day - Tuesday
